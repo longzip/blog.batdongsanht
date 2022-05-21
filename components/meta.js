@@ -34,7 +34,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        content="Bất động sản HT: Nhận ký gửi mua bán nhà đất, đo đạc, san tên sổ đỏ. Liên hệ 0973 768 583"
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>

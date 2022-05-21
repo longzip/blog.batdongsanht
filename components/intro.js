@@ -4,22 +4,22 @@ export default function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-        Blog.
+        Bất động sản HT.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
+        Đầu tư nhận lời cao 2022 - Xu hướng sinh lời khủng 2022{' '}
         <a
-          href="https://nextjs.org/"
+          href="http://batdongsanht.ga"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Next.js
+          Xem Thông tin dự án
         </a>{' '}
-        and{' '}
+        hoặc{' '}
         <a
-          href={CMS_URL}
+          href="tel:0973768583"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          {CMS_NAME}
+          Liên hệ ngay
         </a>
         .
       </h4>

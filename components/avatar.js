@@ -11,7 +11,7 @@ export default function Avatar({ author }) {
     <div className="flex items-center">
       <div className="w-12 h-12 relative mr-4">
         <Image
-          src="/viec-lam-bao-ve.png"
+          src="https://i0.wp.com/batdongsanht.ngoclong.ga/wordpress/wp-content/uploads/sites/40/2022/05/logo-0.png?w=500&ssl=1"
           layout="fill"
           className="rounded-full"
           alt={name}
