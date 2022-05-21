@@ -17,7 +17,7 @@ export default function Avatar({ author }) {
           alt={name}
         />
       </div>
-      <div className="text-xl font-bold">{name}</div>
+      <div className="text-xl font-bold"><span className="uppercase text-red-600 text-shadow">bất động sản <span className='text-yellow-500'>H</span>T </span></div>
     </div>
   )
 }
